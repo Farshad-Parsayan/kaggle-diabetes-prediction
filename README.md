@@ -1,4 +1,4 @@
-# Kaggle Diabetes Prediction
+# Kaggle Diabetes Prediction (DSK807-AML-2026 Assignment 1 - Shallow Learning)
 
 This repository contains the Python code developed for a machine learning competition focused on predicting diabetes status using demographic, behavioral, and clinical variables.
 
